@@ -1,0 +1,7 @@
+openai
+chromadb
+playwright
+beautifulsoup4
+requests
+tqdm
+python-dotenv
